@@ -7,12 +7,158 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "As New York City public schools welcome students back for the new school year, strict ceilings on class sizes are set to take effect—reducing classes from 20 to 25 students per room over the next five years."
+          },
+          {
+            "type": "text",
+            "value": "A new working group, instituted by New York City Department of Education Chancellor David Banks in the spring, is spearheading the reduction effort in the city’s public schools and addressing growing issues, including construction, space planning, and staffing for classes.  Group members, who were announced last April, included a wide range of parents, local leaders, and community organizers meant to provide insight into and advice on class size reduction."
+          },
+          {
+            "type": "text",
+            "value": "Naveed Hasan, SEAS ’00, ’02, a graduate of the New York City public school system, a resident of District 3, and the Community Education Council representative on the Panel for Education Policy, is a member of the working group."
+          },
+          {
+            "type": "text",
+            "value": "“There’s a long-standing effort by parents, who are now possibly grandparents in the public school system, to create better educational settings for all of the students by having smaller classes,” Hasan said."
+          },
+          {
+            "type": "text",
+            "value": "“According to [advocates] … the research shows that one of the biggest things that impacts student achievement is having smaller classes,” Hasan said. “Not just a small teacher-student ratio, but actually less children in the room with the adult so that they can get more individual attention.”"
+          },
+          {
+            "type": "text",
+            "value": "The law, ratified by Kathy Hochul’s passage of Chapter 556 of the Laws of 2022 last September, places a new cap on class size at 20 students in kindergarten through third grade, 23 students for grades four through eight, and 25 students for high school classes."
+          },
+          {
+            "type": "text",
+            "value": "“The new sizes are 20, 23, and 25, which are fairly decently small, the kind of classes you really only find in wealthy areas outside the city or private schools,” Hasan said."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "waffle.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The bill takes effect this September and will begin a five-year implementation phase, with the goal of having all schools comply by the end of September 2028."
+          },
+          {
+            "type": "text",
+            "value": "“It might sound weird that there’s a working group working on this, but the school system has so many different dimensions in terms of how people get admitted to their schools, which schools they are allowed to go to based on where they live … The size of the school that exists in that zone or neighborhood depends on historical data and also current information about the kids that live there,” Hasan said."
+          },
+          {
+            "type": "text",
+            "value": "Hasan said this new law raises many questions for schools in their effort to comply with Hochul’s law, including how many students they can admit, whether to create more school buildings, and how it affects existing zoning."
+          },
+          {
+            "type": "text",
+            "value": "“It’s a very intricate, interconnected system, with the parents that live all around the city and are used to going to the schools that they go to, and a lot of that might change and that’s going to create all sorts of controversy and problems that need to be solved,” Hasan said. “It made sense to pull in all the stakeholders currently who can come in and offer all the input based on their experiences so that we can address as much of it upfront before we start making changes.”"
+          },
+          {
+            "type": "text",
+            "value": "A parent of two children attending public schools, Hasan explained the importance of involving all the people that are impacted by large class sizes. Hasan said many other members of the working group are also parents of public school children."
+          },
+          {
+            "type": "text",
+            "value": "One stakeholder and New York City public school parent is Leonie Haimson, a member of the working group and founder of the educational nonprofit Class Size Matters. The organization advocates for smaller class sizes, an issue she said she only began to learn more about after speaking with her daughter’s first grade teacher."
+          },
+          {
+            "type": "text",
+            "value": "“I started getting interested in the subject when my daughter was in first grade and she was in a class of 29,” Haimson said. “Her teacher confided in me one day that it made her job so much easier when one or two kids were absent because the class size was so large. I was flabbergasted because she was a great teacher and the best teacher in the school.”"
+          },
+          {
+            "type": "text",
+            "value": "Haimson said after doing more research, she found that New York City had the largest class sizes in the state and, according to Haimson, evidence that smaller class sizes were linked to better outcomes for all students."
+          },
+          {
+            "type": "text",
+            "value": "“The issue of class size has been a really central burning issue for many in New York City for at least 100 years,” Haimson said. “New York City class sizes are way higher than they are in the rest of the state and class size has been strongly linked through research to better results for kids in every way they can be measured, especially kids who are in poverty, who are racial minorities, who have special needs, or who are immigrants. Those students make up the majority of the population in our public schools.”"
+          },
+          {
+            "type": "text",
+            "value": "Similarly, Anna Minksy, a parent of a District 5 student, noted the impact that smaller class sizes may have on students with disabilities."
+          },
+          {
+            "type": "text",
+            "value": "“I’m definitely in favor of having smaller classes,” Minksy said. “I think particularly for students with disabilities, that often is one of the best things you can do to improve their experience in an inclusive setting.”"
+          },
+          {
+            "type": "text",
+            "value": "Minksy said that while, on average, District 5 didn’t have the highest class sizes, a reduction would still be beneficial and “make a pretty big difference” in her district. However, she said an issue that comes up in District 5 is the lack of space."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "linechart.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“To have smaller class sizes, you need to have enough classrooms. … At least half of our schools are collocated with other schools, whether it's another DOE school or a charter school,” Minksy said. “That can make it hard.”"
+          },
+          {
+            "type": "text",
+            "value": "Minksy also said under-enrollment and budget and resource allocations in schools remain an issue. She believes that this problem has become more prominent following the Department of Education’s initiative to open more schools."
+          },
+          {
+            "type": "text",
+            "value": "“They’ve had a policy for the last couple years of just like ‘Let’s open as many schools as we possibly can,’ and then shock, they’re under-enrolled,” Minksy said. “And then schools get into a trap where … because their enrollment is down, they lose resources, their budget goes down. And then because their budget is down, it’s hard to build an exciting program and attract new students, and then their enrollment goes down even more.”"
+          },
+          {
+            "type": "text",
+            "value": "Haimson said the unequal distribution of enrollment across schools resulted in some schools being utilized more than others. She said implementing an enrollment cap at overcrowded schools can lower class sizes, but that wasn’t something education officials were actively pursuing."
+          },
+          {
+            "type": "text",
+            "value": "Hasan said that he believes that the working group will provide more than just feedback on its relationship to the DOE."
+          },
+          {
+            "type": "text",
+            "value": "“I think the goal is to try to actually help come up with the beginnings or even the middle of a plan,” Hasan said. “To say these are the things that we really need to address out of the 15 different types of dimensions this problem has, including cost, zone sizes, and construction.”"
+          },
+          {
+            "type": "text",
+            "value": "Similarly, Haimson cited the importance of the working group as a way to hold the DOE accountable and ensure compliance with the new law."
+          },
+          {
+            "type": "text",
+            "value": "“Many community education councils, the chancellor’s Parent Advisory Council, and various elected officials signed on to a letter asking for a commission or working group to be established and sent letters to the DOE,” Haimson said. “Finally, they did agree to set up this working group, which is incredibly important because the chancellor and the deputy chancellor had made no moves that show that they’re really intent on complying with the law.”"
+          },
+          {
+            "type": "text",
+            "value": "Haimson said her skepticism of the DOE’s implementation of class-size reduction resulted from budget cuts to new school construction—which she characterized as “exactly the wrong direction we should be going.”"
+          },
+          {
+            "type": "text",
+            "value": "“[The DOE] warn[s] that we might have to have trailers, that we might have to get rid of arts programs or after-school programs in order to fund this,” Haimson said. “None of that is necessary if you actually have a well-funded, equitable, and efficient plan to get it done … but all the administration seems to want to do is cut the budgets.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Senior Staff Writer Aissatou Diallo can be contacted at </i><a href=\"mailto:aissatou.diallo@columbiaspectator.com\"><i>aissatou.diallo@columbiaspectator.com</i></a><i>. Follow her on Twitter at </i><a href=\"https://twitter.com/home\"><i>@iceatwodiallo</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor Laya Gollamudi can be contacted at </i><a href=\"mailto:laya.gollamudi@columbiaspectator.com\"><i>laya.gollamudi@columbiaspectator.com.</i></a><i> </i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "NYC public schools set to begin reducing class sizes this September",
+        "date": "September 18, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Aissatou-Diallo/\">Aissatou Diallo</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Laya-Gollamudi\">Laya Gollamudi</a>.",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WYMPGXSDOZCNFK65GKOBIVSVOU.JPG",
+        "cover_caption": "Genevieve Depke / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/12otqLOINjCGTH8uVQCeMzXUs7NrvPOfAq7_Q_4rexMk/edit"
       }
     }
   }
